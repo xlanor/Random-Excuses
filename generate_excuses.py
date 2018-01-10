@@ -1,4 +1,4 @@
-#!#! /usr/bin/env python3
+#! /usr/bin/env python3
 #-*- coding: utf-8 -*-
 ##
 # Generate excuses from a predetermined list of excuses for        

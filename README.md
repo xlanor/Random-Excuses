@@ -14,4 +14,5 @@ whenever you need to generate an excuse, you just simply run this short script, 
 
 This resolves the agony of needing to decided the relevant excuse to use,and lets you choose one fuss-free, from your previous inspirations.
 
-
+## Sample Output
+<img src="/sample.png" >
